@@ -1,8 +1,8 @@
 listaNomes = []
 
-listaNomes.append("Aylla")
-listaNomes.append("Geovana")
-listaNomes.append("Maria Aparecida")
+listaNomes.append("Gabrielle")
+listaNomes.append("Julia")
+listaNomes.append("Maria eduarda")
 
 print(listaNomes[1])
 
